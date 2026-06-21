@@ -1,4 +1,4 @@
-# AI Agent Database Dashboard (Taxi Data)
+# ChatSQL
 
 Simple MVP using:
 - PostgreSQL (data source)
